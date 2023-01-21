@@ -49,4 +49,4 @@ ESLINT_NO_DEV_ERRORS = true
 
 ## Author 😎
 
-- **[Milan Sachani](https://github.com/milan-960)**
+- **[Ajay-Dhangar](https://github.com/Ajay-Dhangar)**
